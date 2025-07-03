@@ -17,10 +17,9 @@ This project is a comprehensive web-based student management system designed to 
 ## **Technologies Used**
 - **Backend**: Django (Python), Django ORM
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap (or other UI libraries you used)
-- **Database**: PostgreSQL (or SQLite during development)
+- **Database**: SQLite3
 - **Version Control**: Git
-- **Deployment**: Docker (if Dockerized), Nginx, Gunicorn (for production)
-- **Testing**: Django's built-in testing framework
+
 
 
 
